@@ -1,0 +1,99 @@
+,Product,Year,Num of Complaints,total,Percentage
+0,Bank account or service,2012,1724,9634,18.0
+1,Bank account or service,2013,1877,10789,17.0
+2,Bank account or service,2014,2067,11856,17.0
+3,Bank account or service,2015,2406,13680,18.0
+4,Bank account or service,2016,2675,18111,15.0
+5,Bank account or service,2017,977,6108,16.0
+6,Checking or savings account,2017,2192,12763,17.0
+7,Checking or savings account,2018,3423,21211,16.0
+8,Checking or savings account,2019,3320,21740,15.0
+9,Checking or savings account,2020,1520,10162,15.0
+10,Consumer Loan,2012,283,1504,19.0
+11,Consumer Loan,2013,287,2380,12.0
+12,Consumer Loan,2014,321,4233,8.0
+13,Consumer Loan,2015,474,6093,8.0
+14,Consumer Loan,2016,515,7621,7.0
+15,Consumer Loan,2017,227,3002,8.0
+16,Credit card,2011,199,1054,19.0
+17,Credit card,2012,2369,12247,19.0
+18,Credit card,2013,2037,10352,20.0
+19,Credit card,2014,1880,11130,17.0
+20,Credit card,2015,2326,13480,17.0
+21,Credit card,2016,3661,16656,22.0
+22,Credit card,2017,1111,6067,18.0
+23,Credit card or prepaid card,2017,2374,15404,15.0
+24,Credit card or prepaid card,2018,3636,24249,15.0
+25,Credit card or prepaid card,2019,3783,25835,15.0
+26,Credit card or prepaid card,2020,2297,14603,16.0
+27,Credit reporting,2012,540,1447,37.0
+28,Credit reporting,2013,4484,11712,38.0
+29,Credit reporting,2014,8955,24779,36.0
+30,Credit reporting,2015,9423,28377,33.0
+31,Credit reporting,2016,12552,37504,33.0
+32,Credit reporting,2017,4227,14500,29.0
+33,"Credit reporting, credit repair services, or other personal consumer reports",2017,25344,73394,35.0
+34,"Credit reporting, credit repair services, or other personal consumer reports",2018,29048,111625,26.0
+35,"Credit reporting, credit repair services, or other personal consumer reports",2019,39707,138594,29.0
+36,"Credit reporting, credit repair services, or other personal consumer reports",2020,30893,103102,30.0
+37,Debt collection,2013,733,9156,8.0
+38,Debt collection,2014,1993,32154,6.0
+39,Debt collection,2015,1687,32166,5.0
+40,Debt collection,2016,1240,33417,4.0
+41,Debt collection,2017,1845,45824,4.0
+42,Debt collection,2018,2428,51184,5.0
+43,Debt collection,2019,1935,46403,4.0
+44,Debt collection,2020,973,22569,4.0
+45,"Money transfer, virtual currency, or money service",2017,1061,3266,32.0
+46,"Money transfer, virtual currency, or money service",2018,1647,5433,30.0
+47,"Money transfer, virtual currency, or money service",2019,1333,5086,26.0
+48,"Money transfer, virtual currency, or money service",2020,640,3155,20.0
+49,Money transfers,2013,153,480,32.0
+50,Money transfers,2014,348,1010,34.0
+51,Money transfers,2015,478,1391,34.0
+52,Money transfers,2016,371,1322,28.0
+53,Money transfers,2017,90,369,24.0
+54,Mortgage,2011,301,909,33.0
+55,Mortgage,2012,8867,28819,31.0
+56,Mortgage,2013,9592,38208,25.0
+57,Mortgage,2014,4579,32847,14.0
+58,Mortgage,2015,3856,32289,12.0
+59,Mortgage,2016,4527,32799,14.0
+60,Mortgage,2017,3479,28893,12.0
+61,Mortgage,2018,3040,24575,12.0
+62,Mortgage,2019,2065,22708,9.0
+63,Mortgage,2020,812,10489,8.0
+64,Other financial service,2014,10,94,11.0
+65,Other financial service,2015,20,254,8.0
+66,Other financial service,2016,18,372,5.0
+67,Other financial service,2017,10,140,7.0
+68,Payday loan,2013,22,169,13.0
+69,Payday loan,2014,231,1423,16.0
+70,Payday loan,2015,122,1346,9.0
+71,Payday loan,2016,242,1357,18.0
+72,Payday loan,2017,56,451,12.0
+73,"Payday loan, title loan, or personal loan",2017,190,2958,6.0
+74,"Payday loan, title loan, or personal loan",2018,205,4368,5.0
+75,"Payday loan, title loan, or personal loan",2019,177,4323,4.0
+76,"Payday loan, title loan, or personal loan",2020,98,2016,5.0
+77,Prepaid card,2014,59,271,22.0
+78,Prepaid card,2015,716,1572,46.0
+79,Prepaid card,2016,196,1049,19.0
+80,Prepaid card,2017,70,391,18.0
+81,Student loan,2012,975,2295,42.0
+82,Student loan,2013,1096,2377,46.0
+83,Student loan,2014,1578,3535,45.0
+84,Student loan,2015,1309,3541,37.0
+85,Student loan,2016,2227,6469,34.0
+86,Student loan,2017,9882,15736,63.0
+87,Student loan,2018,4036,8776,46.0
+88,Student loan,2019,2936,7212,41.0
+89,Student loan,2020,815,2486,33.0
+90,Vehicle loan or lease,2017,490,3694,13.0
+91,Vehicle loan or lease,2018,723,5892,12.0
+92,Vehicle loan or lease,2019,685,5489,12.0
+93,Vehicle loan or lease,2020,289,2716,11.0
+94,Virtual currency,2014,0,0,0.0
+95,Virtual currency,2015,3,3,100.0
+96,Virtual currency,2016,3,3,100.0
+97,Virtual currency,2017,3,3,100.0
